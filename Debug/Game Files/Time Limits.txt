@@ -1,0 +1,22 @@
+Enter the time limit for each category.
+If you chaged the names of the categories then you may want to change the names here for easier readability.
+***DO NOT USE NUMBERS UNLESS IT IS THE TIME LIMIT:
+*NOTE: Time limit is in milliseconds. For Example, if you want ten seconds, you put ten-thousand
+--------------------------------------------
+--------------------------------------------
+Kindergarten: 10999
+first grade: 10999
+second grade: 10999
+third grade: 10999
+fourth grade: 10999
+fifth grade: 10999
+sixth grade: 10999
+seventh grade: 10999
+eigth grade: 10999
+ninth grade: 10999
+tenth grade: 10999
+Algebra II: 10999
+Trigonometry: 10999
+Pre-Calculus: 20999
+Calculus: 30999
+Famous Mathematicians/Scientists: 20999
